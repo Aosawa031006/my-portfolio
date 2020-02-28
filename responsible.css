@@ -1,0 +1,28 @@
+@media all and (max-width: 840px) {
+  /* flex */
+  .skills .content-wrapper {
+    flex-direction: column;
+  }
+
+  .skill-list {
+    margin: 0 auto;
+    padding: 30px;
+    font-size: 20px;
+  }
+
+  .header-right {
+    display: none;
+  }
+
+  .open-btn {
+    display: block;
+  }
+
+  .top-wrapper {
+    padding: 150px 0;
+  }
+
+  body {
+    width: 100%;
+  }
+}
